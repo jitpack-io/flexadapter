@@ -36,7 +36,7 @@ ext {
     supportRecyclerView = 'com.android.support:recyclerview-v7:25.1.0'
     kotlinStdlib = "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
     kotlinGradle = "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
-    dokka = 'org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.13'
+    dokka = 'org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.8'
 
     // test dependencies
     robolectric = 'org.robolectric:robolectric:3.1.4'
